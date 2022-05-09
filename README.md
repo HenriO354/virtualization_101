@@ -16,7 +16,7 @@
 # Can you list some containers technologies and explain their use?
 <br>
 
-<b>[VM (virtual machines)](virtual-machines.md#sub-section)<br>
+<b>[VM virtual machines](virtual-machines.md#sub-section)<br>
 Linux cgroups and namespaces<br>
 Application Containers<br>
 Vagrant<br>
