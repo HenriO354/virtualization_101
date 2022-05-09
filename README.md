@@ -14,9 +14,9 @@
 + Why are containers so inherently linked to Linux?<br><br><br>
 
 # Can you list some containers technologies and explain their use?
-<br>
+<br><b>
 
-<b>![VM virtual machines](virtual-machines.md#sub-section)<br>
+[(VM) virtual machines](/exercises/virtual-machines.md#sub-section)<br>
 Linux cgroups and namespaces<br>
 Application Containers<br>
 Vagrant<br>
