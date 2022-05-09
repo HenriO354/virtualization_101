@@ -24,5 +24,8 @@ A hypervisor is a program for creating and running virtual machines. <b>Hypervis
 
 ![Vocabulary](/assets/images/vocabulary.png)
 <br><br><br>
-![6 open source virtualization technologies](/assets/images/6-open-source-virtualization-technologies.png)
 
+##  Here are 6 open source virtualization technologies:
+<br>
+
+![6 open source virtualization technologies](/assets/images/6-open-source-virtualization-technologies.png)
