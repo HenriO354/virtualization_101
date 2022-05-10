@@ -1,22 +1,22 @@
 #   KEYWORDS:
 
 [(VM) virtual machines](/virtual-machines.md#sub-section)<br>
-[Linux cgroups and namespaces](/linux-cgroups-andnamespaces.md)<br>
+[Linux cgroups and namespaces](/linux-cgroups-andnamespaces.md#sub-section)<br>
 
-[Application Containers VS System Containers](/containers.md)<br>
+[Application Containers VS System Containers](/containers.md#sub-section)<br>
 
-[Vagrant]()<br>
+[Vagrant](/vagrant.md#sub-section)<br>
 
-[hypervisor]()<br>
+[hypervisor](/hypervisor.md#sub-section)<br>
 
-[Docker]()<br>
+[Docker](/docker.md#sub-section)<br>
 
-[Proxmox]()<br>
+[Proxmox](/proxmox.md#sub-section)<br>
 
-[Podman]()<br>
+[Podman](/podman.md#sub-section)<br>
 
-[LXC]()<br>
+[LXC](/lxc.md#sub-section)<br>
 
-[Kubernetes]()<br>
+[Kubernetes](/kubernetes.md#sub-section)<br>
 
-[ESXi]()<br></b>
+[ESXi](/esxi.md#sub-section)<br></b>
