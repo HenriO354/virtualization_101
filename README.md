@@ -1,19 +1,23 @@
+
 # Quiz on Virtualization
 
+## Containers vs. virtual machines
 
+https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms
 
 ## Virtual Machines
 <br>
 
-+ What's a virtual machine?<br>
-+ What's an hypervisor?<br>
-+ [Can you list some VM technologies and explain their use ?]()<br>
++ [What's a virtual machine ?](virtual-machines.md#sub-section)<br>
++ [What's an hypervisor ?](hypervisor.md#sub-section)<br>
++ [Can you list some VM technologies and explain their use ?](list-vm-techno-explain-use.md#sub-section)<br>
+
 
 ## Containers
 
-+ What's a container ?
-+ Containers exist in two main form (application and system), how do they differ?
-+ Why are containers so inherently linked to Linux?<br><br><br>
++ [What's a container ?](containers.md#sub-section)
++ <b>Containers</b> exist in two main form (<b>application</b> and <b>system</b>), [how do they differ ?](what-are-the-diffe-betwn-sys-vs-contain-vs-vm.md#sub-section)
++ [Why are containers so inherently linked to Linux ?](container-so-inherently-linked-to-linux.md#sub-section)<br><br><br>
 
 
 
