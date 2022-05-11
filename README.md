@@ -17,7 +17,9 @@ https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms
 
 + [What's a container ?](containers.md#sub-section)
 + <b>Containers</b> exist in two main form (<b>application</b> and <b>system</b>), [how do they differ ?](what-are-the-diffe-betwn-sys-vs-contain-vs-vm.md#sub-section)
-+ [Why are containers so inherently linked to Linux ?](container-so-inherently-linked-to-linux.md#sub-section)<br><br><br>
++ [Why are containers so inherently linked to Linux ?](container-so-inherently-linked-to-linux.md#sub-section)<br>
+
++ [Keywords](keywords.md#sub-section)
 
 
 
